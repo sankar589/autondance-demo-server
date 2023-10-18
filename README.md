@@ -51,5 +51,5 @@ This starts the server at http://127.0.0.1:8000. For API reference check out htt
 To host the server in a common network, run
 
 ```bash
-uvicorn main:app --host {network ip adress} --port 8000
+uvicorn main:app --host {network_ip_address} --port 8000
 ```
